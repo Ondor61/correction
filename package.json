@@ -1,25 +1,25 @@
 {
-  "name": "lolicon",
+  "name": "lolicorrection",
   "version": "1.0.0",
-  "description": "by forking this, let's say you forked a loli",
+  "description": "by forking this, let's say I forked a loli",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/awau/lolicon.git"
+    "url": "git+https://github.com/Ondor61/correction.git"
   },
   "keywords": [
-    "lolicon",
-    "fbi"
+    "loli",
+    "correction"
   ],
   "author": "sr229",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/awau/lolicon/issues"
   },
-  "homepage": "https://github.com/awau/lolicon#readme",
+  "homepage": "https://github.com/Ondor61/correction#readme",
   "dependencies": {
     "babel-polyfill": "^6.23.0"
   },
